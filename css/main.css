@@ -130,7 +130,7 @@ main .main-center .main-introduc .introduc-bottom a:hover::after {
   padding: 20px;
 }
 .slider-main {
-  background: url("images/img-main/bgr-main.jpg") no-repeat center center/cover;
+  background: url(../images/img-main/bgr-main.jpg) no-repeat center center/cover;
   height: 1200%;
 }
 .slider-main .content {
@@ -176,7 +176,7 @@ main .main-center .main-introduc .introduc-bottom a:hover::after {
   margin-top: 2rem;
 }
 .slider-main .img-main-center-left .img1 {
-  background-image: url("images/img-main/mini--main-2.jpg");
+  background-image: url(../images/img-main/mini--main-2.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -186,7 +186,7 @@ main .main-center .main-introduc .introduc-bottom a:hover::after {
   border: 15px solid #fff;
 }
 .slider-main .img-main-center-left .img2 {
-  background-image: url("images/img-main/mini-main-3.jpg");
+  background-image: url(../images/img-main/mini-main-3.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -196,7 +196,7 @@ main .main-center .main-introduc .introduc-bottom a:hover::after {
   border: 15px solid #fff;
 }
 .slider-main .img-main-center-left .img3 {
-  background-image: url("images/img-main/mini-main-1.jpg");
+  background-image: url(../images/img-main/mini-main-1.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -280,16 +280,16 @@ main .main-center .main-introduc .introduc-bottom a:hover::after {
 }
 
 .service .list-service .item .img.img1 {
-  background-image: url("images/main-bottom/main-bottom1.jpg");
+  background-image: url(../images/main-bottom/main-bottom1.jpg);
 }
 .service .list-service .item .img.img2 {
-  background-image: url("images/main-bottom/main-bottom2.jpg");
+  background-image: url(../images/main-bottom/main-bottom2.jpg);
 }
 .service .list-service .item .img.img3 {
-  background-image: url("images/main-bottom/main-bottom3.jpg");
+  background-image: url(../images/main-bottom/main-bottom3.jpg);
 }
 .service .list-service .item .img.img4 {
-  background-image: url("images/main-bottom/main-bottom4.jpg");
+  background-image: url(../images/main-bottom/main-bottom4.jpg);
 }
 
 /* mobile main */
