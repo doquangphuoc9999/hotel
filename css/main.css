@@ -117,8 +117,6 @@ main .main-center .main-introduc .introduc-bottom a::after {
   height: 1px;
   opacity: 0.5;
 }
-main .main-center .main-introduc .introduc-bottom a:hover {
-}
 
 main .main-center .main-introduc .introduc-bottom a:hover::after {
   opacity: 1;
@@ -304,10 +302,7 @@ main .main-center .main-introduc .introduc-bottom a:hover::after {
   .from-to select {
     width: 337px;
   }
-  main .main-center .main-introduc .introduc-bottom a::after {
-  }
-  main .main-center .main-introduc h1::after {
-  }
+
   .slider-main .content .content-main-right a::after {
     display: none;
   }
@@ -327,15 +322,7 @@ main .main-center .main-introduc .introduc-bottom a:hover::after {
   .from-to input {
     width: 100%;
   }
-  .from-to select {
-    /* width: 291px; */
-  }
-  main .main-center .main-introduc h1::after {
-  }
-  main .main-center .main-introduc .introduc-bottom a::after {
-  }
-  .service .conten-service h1::after {
-  }
+
   .service .list-service {
     max-width: 100%;
   }
@@ -349,10 +336,7 @@ main .main-center .main-introduc .introduc-bottom a:hover::after {
   .slider-main .content .content-main-right a::after {
     display: none;
   }
-  main .main-center .main-introduc h1::after {
-  }
-  main .main-center .main-introduc .introduc-bottom a::after {
-  }
+
   .main-top .from-to {
     width: 100%;
   }
@@ -365,15 +349,9 @@ main .main-center .main-introduc .introduc-bottom a:hover::after {
 }
 
 @media (max-width: 1024px) {
-  main .main-center .main-introduc .introduc-bottom a::after {
-  }
 }
 
 @media (max-width: 2560px) {
-  main .main-center .main-introduc h1::after {
-  }
-  main .main-center .main-introduc .introduc-bottom a::after {
-  }
 }
 
 @media (max-width: 1024px) {
